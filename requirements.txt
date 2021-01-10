@@ -1,0 +1,38 @@
+aniso8601==8.1.0
+certifi==2020.12.5
+click==7.1.2
+confuse==1.4.0
+Flask==1.1.2
+Flask-Cors==3.0.10
+Flask-RESTful==0.3.8
+htmlmin==0.1.12
+ImageHash==4.2.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib @ file:///tmp/build/80754af9/joblib_1607970656719/work
+MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
+matplotlib==3.3.3
+missingno==0.4.2
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+modeler==0.0.1
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
+opencv-python==4.5.1.48
+pandas==1.1.4
+pandas-profiling==2.9.0
+phik==0.10.0
+python-dateutil==2.8.1
+pytz @ file:///tmp/build/80754af9/pytz_1608922264688/work
+requests==2.25.0
+scikit-learn @ file:///C:/ci/scikit-learn_1598376983131/work
+scipy @ file:///C:/ci/scipy_1597686737426/work
+seaborn==0.11.0
+six @ file:///C:/ci/six_1605205426665/work
+sklearn==0.0
+tangled-up-in-unicode==0.0.6
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tqdm==4.53.0
+visions==0.5.0
+Werkzeug==1.0.1
+wincertstore==0.2
