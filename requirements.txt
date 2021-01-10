@@ -13,7 +13,7 @@ joblib==1.0.0
 matplotlib==3.3.3
 missingno==0.4.2
 mkl-fft==1.0.6
-mkl-random==1.1.1
+mkl-random==1.0.1.1
 mkl-service==2.3.0
 modeler==0.0.1
 numpy==1.19.5
